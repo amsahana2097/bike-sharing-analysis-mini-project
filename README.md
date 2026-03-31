@@ -1,4 +1,3 @@
-```markdown
 # Analyzing Smart City Bike Sharing Data Using Power BI
 
 ## 📝 Project Overview
